@@ -1,0 +1,875 @@
+[
+  {
+    "name": "京都教育大学附属高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://koukou.kyokyo-u.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立山城高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/yamashiro-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立清明高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyoto_seimeihs/",
+    "followers": "769",
+    "posts": "407",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/seimei-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立紫野高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://cms.edu.city.kyoto.jp/300803/weblog",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立鴨沂高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/ohki-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立洛北高等学校・附属中学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/rakuhokuhspta/",
+    "followers": "214",
+    "posts": "79",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/rakuhoku-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立北稜高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/hokuryohs/",
+    "followers": "880",
+    "posts": "592",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/hokuryou-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立朱雀高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/suzaku_hs_kyoto/",
+    "followers": "209",
+    "posts": "77",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/suzaku-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立堀川高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://cms.edu.city.kyoto.jp/300605/weblog",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立西京高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://cms.edu.city.kyoto.jp/300308/weblog",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立京都堀川音楽高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/horion_onkou/",
+    "followers": "405",
+    "posts": "8",
+    "official_hp_url": "https://horion.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立洛東高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/rakutou.kyotohs/",
+    "followers": "1,679",
+    "posts": "690",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/rakutou-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立日吉ヶ丘高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/hiyoshigaoka_official/",
+    "followers": "723",
+    "posts": "77",
+    "official_hp_url": "https://cms.edu.city.kyoto.jp/300704/weblog",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立美術工芸高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://cms.edu.city.kyoto.jp/300407/weblog",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立鳥羽高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/toba-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立開建高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kaiken.winds_official/",
+    "followers": "536",
+    "posts": "81",
+    "official_hp_url": "https://cms.edu.city.kyoto.jp/300903/weblog",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立嵯峨野高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/saganohs1950/",
+    "followers": "1,907",
+    "posts": "266",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/sagano-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立北嵯峨高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kitasagram/",
+    "followers": "1,307",
+    "posts": "241",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kitasaga-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立桂高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/instakatsura/",
+    "followers": "1,476",
+    "posts": "271",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/katsura-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立洛西高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/rakusainsta/",
+    "followers": "692",
+    "posts": "162",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/rakusai-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立桃山高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/mmymseitokai/",
+    "followers": "598",
+    "posts": "45",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/momoyama-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立東稜高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/toryo_1977/",
+    "followers": "1,364",
+    "posts": "682",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/touryou-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立洛水高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/rakusui-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立京都すばる高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/_kyotosubaru/",
+    "followers": "1,441",
+    "posts": "331",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/subaru-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立京都工学院高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyoto_kougakuin/",
+    "followers": "84",
+    "posts": "13",
+    "official_hp_url": "https://cms.edu.city.kyoto.jp/300254/weblog",
+    "research_note": ""
+  },
+  {
+    "name": "京都市立京都奏和高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/make_you_smile_souwa/",
+    "followers": "209",
+    "posts": "41",
+    "official_hp_url": "https://cms.edu.city.kyoto.jp/301107/weblog",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立向陽高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/koyokyoto_hs/",
+    "followers": "875",
+    "posts": "609",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kouyou-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立乙訓高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/otokuni_shs/",
+    "followers": "2,261",
+    "posts": "970",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/otokuni-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立西乙訓高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/nishiotokuni/",
+    "followers": "652",
+    "posts": "554",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/nishiotokuni-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立城南菱創高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/jonanryoso-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立東宇治高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/higashimaro/",
+    "followers": "678",
+    "posts": "93",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/higashiuji-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立莵道高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/todou_1984/",
+    "followers": "540",
+    "posts": "55",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/todou-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立城陽高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/jyouyou-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立西城陽高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/nishijyouyou-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立京都八幡高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kyotoyawata-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立久御山高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kumiyama_hs/",
+    "followers": "1,143",
+    "posts": "233",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kumiyama-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立田辺高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/tanabe_1963/",
+    "followers": "1,266",
+    "posts": "49",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/tanabe-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立木津高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kizu_hs/",
+    "followers": "564",
+    "posts": "380",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kizu-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立南陽高等学校・附属中学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/nyhswo/",
+    "followers": "962",
+    "posts": "200",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/nannyou-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立北桑田高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kitakuwada.hs/",
+    "followers": "1,167",
+    "posts": "639",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kitakuwada-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立亀岡高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kameoka_hs/",
+    "followers": "1,100",
+    "posts": "222",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kameoka-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立南丹高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/nantan_kyoto/",
+    "followers": "147",
+    "posts": "23",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/nantan-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立園部高等学校・附属中学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/sonobefuzoku/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立農芸高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyoto_nogei_hs/",
+    "followers": "2,026",
+    "posts": "777",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/nougei-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立須知高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/syuuchihs/",
+    "followers": "1,236",
+    "posts": "290",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/syuuchi-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立綾部高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/ayabe_hs/",
+    "followers": "2,053",
+    "posts": "903",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/ayabe-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立福知山高等学校・附属中学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/fukusta1901/",
+    "followers": "1,523",
+    "posts": "270",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/fukuchiyamafuzoku-jhs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立工業高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyoto_kogyo_offcial/",
+    "followers": "449",
+    "posts": "23",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kyoto-ths/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立大江高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyoto.oehs/",
+    "followers": "436",
+    "posts": "182",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/ooe-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立東舞鶴高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/tomai_hs/",
+    "followers": "1,322",
+    "posts": "328",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/higashimaizuru-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立西舞鶴高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/nishimaizuru-hs/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立海洋高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotokaiyo/",
+    "followers": "2,226",
+    "posts": "305",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/kaiyou-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立峰山高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/mineyama-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立宮津天橋高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/miyazu_tenkyou_hs/",
+    "followers": "1,688",
+    "posts": "179",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/miyazutenkyou-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立丹後緑風高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/amino_campus/",
+    "followers": "707",
+    "posts": "258",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/tangoryokufuu-hs/mt/",
+    "research_note": ""
+  },
+  {
+    "name": "京都府立清新高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/seishin_high_school/",
+    "followers": "134",
+    "posts": "17",
+    "official_hp_url": "https://www.kyoto-be.ne.jp/seishin-hs/cms/",
+    "research_note": ""
+  },
+  {
+    "name": "一燈園高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/ittoen_highschool/",
+    "followers": "374",
+    "posts": "237",
+    "official_hp_url": "https://ittoen.ed.jp/senior.htm",
+    "research_note": ""
+  },
+  {
+    "name": "大谷高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.otani.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "華頂女子高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kachogirls/",
+    "followers": "678",
+    "posts": "470",
+    "official_hp_url": "https://www.kacho.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都外大西高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://kgn.kufs.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都光華高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotokoka/",
+    "followers": "1,557",
+    "posts": "855",
+    "official_hp_url": "https://hs.koka.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都国際高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotokokusai/",
+    "followers": "1,212",
+    "posts": "42",
+    "official_hp_url": "https://kyoto-kokusai.ed.jp/jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都産業大学附属高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://kyoto-kokusai.ed.jp/jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都女子高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://kgs.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都精華学園高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/k.seika_official/",
+    "followers": "1,237",
+    "posts": "44",
+    "official_hp_url": "https://k-seika.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都成章高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/seisho.admissions.office/",
+    "followers": "1,406",
+    "posts": "880",
+    "official_hp_url": "https://kyoto-seisho.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都聖母学院高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyoto_seibo/",
+    "followers": "1,142",
+    "posts": "107",
+    "official_hp_url": "https://www.seibo.ed.jp/kyoto-hs/",
+    "research_note": ""
+  },
+  {
+    "name": "京都先端科学大学附属高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/js.kuas/",
+    "followers": "748",
+    "posts": "83",
+    "official_hp_url": "https://www.js.kuas.ac.jp/shs/",
+    "research_note": ""
+  },
+  {
+    "name": "京都橘高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyototachibana_jhs.shs/",
+    "followers": "4,250",
+    "posts": "208",
+    "official_hp_url": "https://www.tachibana-hs.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都つくば開成高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyoto_tsukuba/",
+    "followers": "435",
+    "posts": "209",
+    "official_hp_url": "https://kyoto.tsukuba-kaisei.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都文教高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/k.bunkyo/",
+    "followers": "3,178",
+    "posts": "917",
+    "official_hp_url": "https://www.kbu.ac.jp/kbghs/",
+    "research_note": ""
+  },
+  {
+    "name": "京都美山高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotomiyama_highschool/",
+    "followers": "151",
+    "posts": "40",
+    "official_hp_url": "https://www.miyama.ed.jp/?gad_source=1&gad_campaignid=649944935&gbraid=0AAAAADfC19AWDbETONMI9MmCpH8A_xlz4&gclid=CjwKCAiAtq_NBhA_EiwA78nNWGaNPS3cxYSlb3wHwwCnZUHykdHosAHMKcAI8mAB0WL6vNx9eEe-0RoCtEEQAvD_BwE",
+    "research_note": ""
+  },
+  {
+    "name": "京都明徳高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotomeitoku_official/",
+    "followers": "1,399",
+    "posts": "155",
+    "official_hp_url": "https://www.meitoku.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都両洋高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyoto.ryoyo/",
+    "followers": "1,648",
+    "posts": "696",
+    "official_hp_url": "https://www.kyoto-ryoyo.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "同志社高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://js.doshisha.ac.jp/high/",
+    "research_note": ""
+  },
+  {
+    "name": "同志社女子高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.girls.doshisha.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "ノートルダム女学院高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/ndseitokai/",
+    "followers": "145",
+    "posts": "6",
+    "official_hp_url": "https://www.notredame-jogakuin.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "花園高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/hanazono_senior_hs/",
+    "followers": "567",
+    "posts": "80",
+    "official_hp_url": "https://www.kyoto-hanazono-h.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "東山高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/higashiyama1868/",
+    "followers": "3,825",
+    "posts": "271",
+    "official_hp_url": "https://www.higashiyama.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "平安女学院高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/stagnes_jh_school/",
+    "followers": "989",
+    "posts": "143",
+    "official_hp_url": "https://jh.heian.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "洛星高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/rakusei_school_official/",
+    "followers": "6,562",
+    "posts": "28",
+    "official_hp_url": "https://www.rakusei.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "洛南高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.rakunan-h.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "洛陽総合高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/rakuyo_general/",
+    "followers": "1,848",
+    "posts": "420",
+    "official_hp_url": "https://www.rakuyo.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "龍谷大学付属平安高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/heian_school_official/",
+    "followers": "2,019",
+    "posts": "208",
+    "official_hp_url": "https://www.heian.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都芸術高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.kyoto-geikou.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都翔英高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotoshoei_highschool_info/",
+    "followers": "1,616",
+    "posts": "516",
+    "official_hp_url": "http://www.kyoto-shoei.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "立命館宇治高等学校",
+    "has_acct": "なし",
+    "ig_url": "",
+    "followers": "-",
+    "posts": "-",
+    "official_hp_url": "https://www.ritsumei.ac.jp/uji/",
+    "research_note": ""
+  },
+  {
+    "name": "京都西山高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotonishiyama_kn/",
+    "followers": "2,777",
+    "posts": "584",
+    "official_hp_url": "https://kyotonishiyama.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "立命館高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/ritsumeikan_js_high_school/",
+    "followers": "3,038",
+    "posts": "135",
+    "official_hp_url": "https://www.ritsumei.ac.jp/nkc/",
+    "research_note": ""
+  },
+  {
+    "name": "同志社国際高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/intnl.doshisha/",
+    "followers": "338",
+    "posts": "10",
+    "official_hp_url": "https://www.intnl.doshisha.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都廣学館高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotokogakkan/",
+    "followers": "2,249",
+    "posts": "2,090",
+    "official_hp_url": "https://kyoto-kogakkan.mkg.ac.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都聖カタリナ高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/catalina_kyoto/",
+    "followers": "416",
+    "posts": "107",
+    "official_hp_url": "https://catalina-kyoto.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都共栄学園高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotokyoei__official/",
+    "followers": "943",
+    "posts": "78",
+    "official_hp_url": "https://www.kyoei.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "福知山成美高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/f_seibi/",
+    "followers": "2,625",
+    "posts": "148",
+    "official_hp_url": "https://www.seibi-hs.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "福知山淑徳高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/shukutoku.hs/",
+    "followers": "1,654",
+    "posts": "375",
+    "official_hp_url": "https://www.kan-on-sen-ku.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "日星高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/nissei.official/",
+    "followers": "3,087",
+    "posts": "470",
+    "official_hp_url": "https://www.nisseihs.ed.jp/",
+    "research_note": ""
+  },
+  {
+    "name": "京都暁星高等学校",
+    "has_acct": "あり",
+    "ig_url": "https://www.instagram.com/kyotogyosei_official/",
+    "followers": "799",
+    "posts": "454",
+    "official_hp_url": "https://kghs.ed.jp/",
+    "research_note": ""
+  }
+]

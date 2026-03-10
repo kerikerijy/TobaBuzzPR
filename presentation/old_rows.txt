@@ -1,0 +1,1001 @@
+                            <tr class="school-row" data-id="1" data-type="国立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">001</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都教育大学附属高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://koukou.kyokyo-u.ac.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都教育大学附属高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="2" data-type="府立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">002</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立山城高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/yamashiro-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立山城高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="3" data-id="3" data-type="府立" data-followers="769"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">003</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立清明高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/seimei-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立清明高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyoto_seimeihs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyoto_seimeihs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">769</td>
+                                <td style="padding: 1rem; text-align: right;">407</td>
+                            </tr>
+                            <tr class="school-row" data-id="4" data-type="市立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">004</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立紫野高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://cms.edu.city.kyoto.jp/300803/weblog"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都市立紫野高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="5" data-type="府立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">005</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立鴨沂高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/ohki-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立鴨沂高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="6" data-type="府立" data-followers="214"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">006</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立洛北高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/rakuhoku-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立洛北高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/rakuhokuhspta/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@rakuhokuhspta ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">214</td>
+                                <td style="padding: 1rem; text-align: right;">79</td>
+                            </tr>
+                            <tr class="school-row" data-id="7" data-type="府立" data-followers="880"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">007</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立北稜高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/hokuryou-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立北稜高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/hokuryohs/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@hokuryohs
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">880</td>
+                                <td style="padding: 1rem; text-align: right;">592</td>
+                            </tr>
+                            <tr class="school-row" data-id="8" data-type="府立" data-followers="209"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">008</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立朱雀高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/suzaku-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立朱雀高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/suzaku_hs_kyoto/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@suzaku_hs_kyoto ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">209</td>
+                                <td style="padding: 1rem; text-align: right;">77</td>
+                            </tr>
+                            <tr class="school-row" data-id="9" data-type="市立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">009</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立堀川高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://cms.edu.city.kyoto.jp/300605/weblog"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都市立堀川高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="10" data-type="市立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">010</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立西京高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://cms.edu.city.kyoto.jp/300308/weblog"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都市立西京高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="11" data-type="市立" data-followers="405"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">011</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立京都堀川音楽高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://horion.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都市立京都堀川音楽高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/horion_onkou/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@horion_onkou ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">405</td>
+                                <td style="padding: 1rem; text-align: right;">8</td>
+                            </tr>
+                            <tr class="school-row" data-id="12" data-type="府立" data-followers="1679"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">012</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立洛東高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/rakutou-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立洛東高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/rakutou.kyotohs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@rakutou.kyotohs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1679</td>
+                                <td style="padding: 1rem; text-align: right;">690</td>
+                            </tr>
+                            <tr class="school-row" data-id="13" data-type="市立" data-followers="723"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">013</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立日吉ヶ丘高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://cms.edu.city.kyoto.jp/300704/weblog"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都市立日吉ヶ丘高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/hiyoshigaoka_official/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@hiyoshigaoka_official
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">723</td>
+                                <td style="padding: 1rem; text-align: right;">77</td>
+                            </tr>
+                            <tr class="school-row" data-id="14" data-type="市立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">014</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立美術工芸高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://cms.edu.city.kyoto.jp/300407/weblog"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都市立美術工芸高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="15" data-type="府立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">015</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立鳥羽高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/toba-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立鳥羽高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="16" data-type="市立" data-followers="536"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">016</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立開建高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://cms.edu.city.kyoto.jp/300903/weblog"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都市立開建高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kaiken.winds_official/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kaiken.winds_official
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">536</td>
+                                <td style="padding: 1rem; text-align: right;">81</td>
+                            </tr>
+                            <tr class="school-row" data-id="17" data-type="府立" data-followers="1907"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">017</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立嵯峨野高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/sagano-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立嵯峨野高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/saganohs1950/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@saganohs1950 ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1907</td>
+                                <td style="padding: 1rem; text-align: right;">266</td>
+                            </tr>
+                            <tr class="school-row" data-id="18" data-type="府立" data-followers="1143"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">018</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立久御山高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/kumiyama-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立久御山高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kumiyama_hs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kumiyama_hs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1143</td>
+                                <td style="padding: 1rem; text-align: right;">233</td>
+                            </tr>
+                            <tr class="school-row" data-id="19" data-type="府立" data-followers="1266"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">019</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立田辺高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/tanabe-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立田辺高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/tanabe_1963/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@tanabe_1963 ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1266</td>
+                                <td style="padding: 1rem; text-align: right;">49</td>
+                            </tr>
+                            <tr class="school-row" data-id="20" data-type="府立" data-followers="134"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">020</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立清新高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/seishin-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立清新高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/seishin_high_school/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@seishin_high_school ↗</a>
+                                </td>
+                                <td style="padding: 1rem; text-align: right;">134</td>
+                                <td style="padding: 1rem; text-align: right;">17</td>
+                            </tr>
+                            <tr class="school-row" data-id="21" data-type="私立" data-followers="374"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">021</td>
+                                <td style="padding: 1rem; font-weight: 500;">一燈園高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://ittoen.ed.jp/senior.htm" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=一燈園高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/ittoen_highschool/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@ittoen_highschool ↗</a>
+                                </td>
+                                <td style="padding: 1rem; text-align: right;">374</td>
+                                <td style="padding: 1rem; text-align: right;">237</td>
+                            </tr>
+                            <tr class="school-row" data-id="22" data-type="私立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">022</td>
+                                <td style="padding: 1rem; font-weight: 500;">大谷高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.otani.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=大谷高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="23" data-type="私立" data-followers="678"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">023</td>
+                                <td style="padding: 1rem; font-weight: 500;">華頂女子高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kacho.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=華頂女子高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kachogirls/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@kachogirls
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">678</td>
+                                <td style="padding: 1rem; text-align: right;">470</td>
+                            </tr>
+                            <tr class="school-row" data-id="24" data-type="私立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">024</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都外大西高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://kgn.kufs.ac.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都外大西高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="25" data-type="私立" data-followers="1557"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">025</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都光華高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://hs.koka.ac.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都光華高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyotokoka/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@kyotokoka
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1557</td>
+                                <td style="padding: 1rem; text-align: right;">855</td>
+                            </tr>
+                            <tr class="school-row" data-id="26" data-type="私立" data-followers="1212"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">026</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都国際高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://kyoto-kokusai.ed.jp/jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都国際高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyotokokusai/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyotokokusai ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1212</td>
+                                <td style="padding: 1rem; text-align: right;">42</td>
+                            </tr>
+                            <tr class="school-row" data-id="27" data-type="私立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">027</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都産業大学附属高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://kyoto-kokusai.ed.jp/jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都産業大学附属高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="28" data-type="私立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">028</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都女子高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://kgs.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都女子高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="29" data-type="私立" data-followers="1237"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">029</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都精華学園高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://k-seika.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都精華学園高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/k.seika_official/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@k.seika_official ↗</a>
+                                </td>
+                                <td style="padding: 1rem; text-align: right;">1237</td>
+                                <td style="padding: 1rem; text-align: right;">44</td>
+                            </tr>
+                            <tr class="school-row" data-id="30" data-type="私立" data-followers="1406"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">030</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都成章高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://kyoto-seisho.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都成章高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/seisho.admissions.office/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@seisho.admissions.office
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1406</td>
+                                <td style="padding: 1rem; text-align: right;">880</td>
+                            </tr>
+                            <tr class="school-row" data-id="31" data-type="私立" data-followers="1142"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">031</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都聖母学院高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.seibo.ed.jp/kyoto-hs/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都聖母学院高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyoto_seibo/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyoto_seibo ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1142</td>
+                                <td style="padding: 1rem; text-align: right;">107</td>
+                            </tr>
+                            <tr class="school-row" data-id="32" data-type="私立" data-followers="748"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">032</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都先端科学大学附属高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.js.kuas.ac.jp/shs/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都先端科学大学附属高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/js.kuas/" target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@js.kuas ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">748</td>
+                                <td style="padding: 1rem; text-align: right;">83</td>
+                            </tr>
+                            <tr class="school-row" data-id="33" data-type="私立" data-followers="4250"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">033</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都橘高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.tachibana-hs.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都橘高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyototachibana_jhs.shs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyototachibana_jhs.shs
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">4250</td>
+                                <td style="padding: 1rem; text-align: right;">208</td>
+                            </tr>
+                            <tr class="school-row" data-id="34" data-type="私立" data-followers="435"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">034</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都つくば開成高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://kyoto.tsukuba-kaisei.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都つくば開成高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyoto_tsukuba/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyoto_tsukuba ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">435</td>
+                                <td style="padding: 1rem; text-align: right;">209</td>
+                            </tr>
+                            <tr class="school-row" data-id="35" data-type="私立" data-followers="3178"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">035</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都文教高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kbu.ac.jp/kbghs/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都文教高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/k.bunkyo/" target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@k.bunkyo ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">3178</td>
+                                <td style="padding: 1rem; text-align: right;">917</td>
+                            </tr>
+                            <tr class="school-row" data-id="36" data-type="私立" data-followers="151"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">036</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都美山高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.miyama.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都美山高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyotomiyama_highschool/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyotomiyama_highschool
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">151</td>
+                                <td style="padding: 1rem; text-align: right;">40</td>
+                            </tr>
+                            <tr class="school-row" data-id="37" data-type="私立" data-followers="1399"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">037</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都明徳高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.meitoku.ac.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都明徳高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyotomeitoku_official/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyotomeitoku_official
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1399</td>
+                                <td style="padding: 1rem; text-align: right;">155</td>
+                            </tr>
+                            <tr class="school-row" data-id="38" data-type="私立" data-followers="1648"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">038</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都両洋高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-ryoyo.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都両洋高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyoto.ryoyo/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyoto.ryoyo ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1648</td>
+                                <td style="padding: 1rem; text-align: right;">696</td>
+                            </tr>
+                            <tr class="school-row" data-id="39" data-type="私立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">039</td>
+                                <td style="padding: 1rem; font-weight: 500;">同志社高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://js.doshisha.ac.jp/high/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=同志社高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="40" data-type="私立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">040</td>
+                                <td style="padding: 1rem; font-weight: 500;">同志社女子高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.dwc.doshisha.ac.jp/hs/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=同志社女子高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="41" data-type="私立" data-followers="962"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">041</td>
+                                <td style="padding: 1rem; font-weight: 500;">東山高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.higashiyama.ed.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=東山高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/nyhswo/" target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@nyhswo ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">962</td>
+                                <td style="padding: 1rem; text-align: right;">200</td>
+                            </tr>
+                            <tr class="school-row" data-id="42" data-type="府立" data-followers="1167"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">042</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立北桑田高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/kitakuwada-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立北桑田高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kitakuwada.hs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kitakuwada.hs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1167</td>
+                                <td style="padding: 1rem; text-align: right;">639</td>
+                            </tr>
+                            <tr class="school-row" data-id="43" data-type="府立" data-followers="1100"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">043</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立亀岡高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/kameoka-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立亀岡高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kameoka_hs/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@kameoka_hs
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1100</td>
+                                <td style="padding: 1rem; text-align: right;">222</td>
+                            </tr>
+                            <tr class="school-row" data-id="44" data-type="府立" data-followers="147"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">044</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立南丹高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/nantan-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立南丹高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/nantan_kyoto/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@nantan_kyoto ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">147</td>
+                                <td style="padding: 1rem; text-align: right;">23</td>
+                            </tr>
+                            <tr class="school-row" data-id="45" data-type="府立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">045</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立園部高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/sonobefuzoku/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立園部高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="46" data-type="府立" data-followers="2026"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">046</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立農芸高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/nougei-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立農芸高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyoto_nogei_hs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyoto_nogei_hs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">2026</td>
+                                <td style="padding: 1rem; text-align: right;">777</td>
+                            </tr>
+                            <tr class="school-row" data-id="47" data-type="府立" data-followers="1236"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">047</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立須知高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/syuuchi-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立須知高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/syuuchihs/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@syuuchihs
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1236</td>
+                                <td style="padding: 1rem; text-align: right;">290</td>
+                            </tr>
+                            <tr class="school-row" data-id="48" data-type="府立" data-followers="2053"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">048</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立綾部高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/ayabe-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立綾部高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/ayabe_hs/" target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@ayabe_hs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">2053</td>
+                                <td style="padding: 1rem; text-align: right;">903</td>
+                            </tr>
+                            <tr class="school-row" data-id="49" data-type="府立" data-followers="1523"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">049</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立福知山高等学校</td>
+                                <td style="padding: 1rem;"><a
+                                        href="https://www.kyoto-be.ne.jp/fukuchiyamafuzoku-jhs/cms/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> | <a
+                                        href="https://www.google.com/search?q=京都府立福知山高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/fukusta1901/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@fukusta1901 ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1523</td>
+                                <td style="padding: 1rem; text-align: right;">270</td>
+                            </tr>
+                            <tr class="school-row" data-id="50" data-type="府立" data-followers="449"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">050</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立工業高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/kyoto-ths/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立工業高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyoto_kogyo_offcial/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyoto_kogyo_offcial ↗</a>
+                                </td>
+                                <td style="padding: 1rem; text-align: right;">449</td>
+                                <td style="padding: 1rem; text-align: right;">23</td>
+                            </tr>
+                            <tr class="school-row" data-id="51" data-type="府立" data-followers="436"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">051</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立大江高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/ooe-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立大江高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyoto.oehs/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@kyoto.oehs
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">436</td>
+                                <td style="padding: 1rem; text-align: right;">182</td>
+                            </tr>
+                            <tr class="school-row" data-id="52" data-type="府立" data-followers="1322"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">052</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立東舞鶴高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/higashimaizuru-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立東舞鶴高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/tomai_hs/" target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@tomai_hs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1322</td>
+                                <td style="padding: 1rem; text-align: right;">328</td>
+                            </tr>
+                            <tr class="school-row" data-id="53" data-type="府立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">053</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立西舞鶴高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/nishimaizuru-hs/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立西舞鶴高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="54" data-type="府立" data-followers="2226"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">054</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立海洋高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/kaiyou-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立海洋高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyotokaiyo/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@kyotokaiyo
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">2226</td>
+                                <td style="padding: 1rem; text-align: right;">305</td>
+                            </tr>
+                            <tr class="school-row" data-id="55" data-type="府立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">055</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立峰山高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/mineyama-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立峰山高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="56" data-type="府立" data-followers="1688"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">056</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立宮津天橋高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/miyazutenkyou-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立宮津天橋高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/miyazu_tenkyou_hs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@miyazu_tenkyou_hs ↗</a>
+                                </td>
+                                <td style="padding: 1rem; text-align: right;">1688</td>
+                                <td style="padding: 1rem; text-align: right;">179</td>
+                            </tr>
+                            <tr class="school-row" data-id="57" data-type="府立" data-followers="707"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">057</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立丹後緑風高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/tangoryokufuu-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立丹後緑風高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/amino_campus/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@amino_campus ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">707</td>
+                                <td style="padding: 1rem; text-align: right;">258</td>
+                            </tr>
+                            <tr class="school-row" data-id="58" data-type="府立" data-followers="134"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">058</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立清新高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/seishin-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立清新高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/seishin_high_school/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@seishin_high_school ↗</a>
+                                </td>
+                                <td style="padding: 1rem; text-align: right;">134</td>
+                                <td style="padding: 1rem; text-align: right;">17</td>
+                            </tr>
+                            <tr class="school-row" data-id="59" data-type="府立" data-followers="1307"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">059</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立北嵯峨高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/kitasaga-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立北嵯峨高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kitasagram/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@kitasagram
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1307</td>
+                                <td style="padding: 1rem; text-align: right;">241</td>
+                            </tr>
+                            <tr class="school-row" data-id="60" data-type="府立" data-followers="1476"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">060</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立桂高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/katsura-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立桂高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/instakatsura/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@instakatsura ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1476</td>
+                                <td style="padding: 1rem; text-align: right;">271</td>
+                            </tr>
+                            <tr class="school-row" data-id="61" data-type="府立" data-followers="692"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">061</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立洛西高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/rakusai-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> | <a href="https://www.google.com/search?q=京都府立洛西高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/rakusainsta/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@rakusainsta ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">692</td>
+                                <td style="padding: 1rem; text-align: right;">162</td>
+                            </tr>
+                            <tr class="school-row" data-id="62" data-type="府立" data-followers="598"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">062</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立桃山高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/momoyama-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都府立桃山高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/mmymseitokai/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@mmymseitokai ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">598</td>
+                                <td style="padding: 1rem; text-align: right;">45</td>
+                            </tr>
+                            <tr class="school-row" data-id="63" data-type="府立" data-followers="1364"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">063</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立東稜高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/touryou-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都府立東稜高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/toryo_1977/"
+                                        target="_blank" style="color: var(--accent); text-decoration: none;">@toryo_1977
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1,364</td>
+                                <td style="padding: 1rem; text-align: right;">682</td>
+                            </tr>
+                            <tr class="school-row" data-id="64" data-type="府立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">064</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立洛水高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/rakusui-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都府立洛水高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="65" data-type="府立" data-followers="1441"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">065</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立京都すばる高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/subaru-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都府立京都すばる高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/_kyotosubaru/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@_kyotosubaru ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">1,441</td>
+                                <td style="padding: 1rem; text-align: right;">331</td>
+                            </tr>
+                            <tr class="school-row" data-id="66" data-type="市立" data-followers="84"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">066</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立京都工学院高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://cms.edu.city.kyoto.jp/300254/weblog"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都市立京都工学院高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/kyoto_kougakuin/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@kyoto_kougakuin ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">84</td>
+                                <td style="padding: 1rem; text-align: right;">13</td>
+                            </tr>
+                            <tr class="school-row" data-id="67" data-type="市立" data-followers="209"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">067</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都市立京都奏和高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://cms.edu.city.kyoto.jp/301107/weblog"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都市立京都奏和高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/make_you_smile_souwa/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@make_you_smile_souwa ↗</a>
+                                </td>
+                                <td style="padding: 1rem; text-align: right;">209</td>
+                                <td style="padding: 1rem; text-align: right;">41</td>
+                            </tr>
+                            <tr class="school-row" data-id="68" data-type="府立" data-followers="875"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">068</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立向陽高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/kouyou-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都府立向陽高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/koyokyoto_hs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@koyokyoto_hs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">875</td>
+                                <td style="padding: 1rem; text-align: right;">609</td>
+                            </tr>
+                            <tr class="school-row" data-id="69" data-type="府立" data-followers="2261"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">069</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立乙訓高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/otokuni-hs/cms/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都府立乙訓高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/otokuni_shs/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@otokuni_shs ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">2,261</td>
+                                <td style="padding: 1rem; text-align: right;">970</td>
+                            </tr>
+                            <tr class="school-row" data-id="70" data-type="府立" data-followers="652"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">070</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立西乙訓高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/nishiotokuni-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都府立西乙訓高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/nishiotokuni/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@nishiotokuni ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">652</td>
+                                <td style="padding: 1rem; text-align: right;">554</td>
+                            </tr>
+                            <tr class="school-row" data-id="71" data-type="府立" data-followers="0"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">071</td>
+                                <td style="padding: 1rem; font-weight: 500;">京都府立城南菱創高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.kyoto-be.ne.jp/jonanryoso-hs/mt/"
+                                        target="_blank" style="color: var(--primary); text-decoration: none;">公式サイト
+                                        ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=京都府立城南菱創高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><span style="color: #64748b;">未開設</span></td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                                <td style="padding: 1rem; text-align: right;">-</td>
+                            </tr>
+                            <tr class="school-row" data-id="72" data-type="私立" data-followers="6562"
+                                style="border-bottom: 1px solid rgba(255,255,255,0.1);">
+                                <td style="padding: 1rem; color: #475569; font-family: monospace;">072</td>
+                                <td style="padding: 1rem; font-weight: 500;">洛星高等学校</td>
+                                <td style="padding: 1rem;"><a href="https://www.rakusei.ac.jp/" target="_blank"
+                                        style="color: var(--primary); text-decoration: none;">公式サイト ↗</a> <span
+                                        style="color: #475569; margin: 0 0.3rem; font-size: 0.8rem;">|</span> <a
+                                        href="https://www.google.com/search?q=洛星高等学校" target="_blank"
+                                        style="color: #64748b; text-decoration: none; font-size: 0.85rem;">検索 ↗</a></td>
+                                <td style="padding: 1rem;"><a href="https://www.instagram.com/rakusei_school_official/"
+                                        target="_blank"
+                                        style="color: var(--accent); text-decoration: none;">@rakusei_school_official
+                                        ↗</a></td>
+                                <td style="padding: 1rem; text-align: right;">6,562</td>
+                                <td style="padding: 1rem; text-align: right;">28</td>
+                            </tr>
