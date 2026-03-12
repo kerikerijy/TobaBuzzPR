@@ -37,4 +37,11 @@ Icon
 /tmp/
 check_*.js
 inject_*.js
+test_*.js
 dom_dump*
+*.pdf
+*.docx
+*_files/
+current_rows.txt
+school_coordinates.json
+school_rows.html
