@@ -340,8 +340,8 @@
         html.light-mode .text-violet-300 { color: #5b21b6 !important; }
         html.light-mode .text-rose-300 { color: #881337 !important; }
         html.light-mode .text-orange-300 { color: #7c2d12 !important; }
-        html.light-mode .text-blue-100 { color: #ffffff !important; }
-        html.light-mode .text-blue-200 { color: #dbeafe !important; }
+        html.light-mode .text-blue-100 { color: #1e40af !important; }
+        html.light-mode .text-blue-200 { color: #1d4ed8 !important; }
         /* Filter buttons */
         html.light-mode #directory-filters .filter-btn {
             border-color: rgba(0, 0, 0, 0.12) !important;
@@ -415,6 +415,97 @@
             border-color: #e2e8f0;
             box-shadow: 0 4px 20px rgba(0,0,0,0.12);
         }
+
+        /* ===== SECTION BACKGROUND: DOT GRID + WATERMARK ===== */
+        .dot-grid {
+            background-image: radial-gradient(circle, rgba(255,255,255,0.055) 1px, transparent 1px);
+            background-size: 28px 28px;
+        }
+        html.light-mode .dot-grid {
+            background-image: radial-gradient(circle, rgba(0,0,0,0.07) 1px, transparent 1px);
+        }
+        .section-wm {
+            position: absolute;
+            font-weight: 900;
+            line-height: 1;
+            pointer-events: none;
+            user-select: none;
+            font-size: clamp(9rem, 28vw, 22rem);
+            letter-spacing: -0.06em;
+            z-index: 0;
+            font-family: 'Noto Sans JP', sans-serif;
+        }
+        /* ウォーターマーク：ライトモードでは色の不透明度を抑えて白背景に溶け込ませる */
+        html.light-mode .section-wm {
+            opacity: 0.04 !important;
+            color: #1e293b !important;
+        }
+
+        /* ===== LIGHT MODE: 追加オーバーライド ===== */
+
+        /* --- テキストカラー補正 --- */
+        /* indigo/violet/fuchsia/pink/amber 系のアクセントカラーを白背景向けに濃色化 */
+        html.light-mode .text-indigo-400 { color: #3730a3 !important; }
+        html.light-mode .text-violet-400 { color: #5b21b6 !important; }
+        html.light-mode .text-fuchsia-400 { color: #86198f !important; }
+        html.light-mode .text-pink-400    { color: #9d174d !important; }
+        html.light-mode .text-amber-300   { color: #92400e !important; }
+        html.light-mode .text-amber-400   { color: #78350f !important; }
+        /* emerald/teal 系 */
+        html.light-mode .text-emerald-400 { color: #065f46 !important; }
+        html.light-mode .text-teal-400    { color: #0f766e !important; }
+        /* cyan/blue 強調テキスト */
+        html.light-mode .text-cyan-400    { color: #0e7490 !important; }
+        html.light-mode .text-blue-400    { color: #1d4ed8 !important; }
+        html.light-mode .text-purple-400  { color: #6b21a8 !important; }
+
+        /* --- ①②バッジ背景（bg-rose-950/40, bg-orange-950/40） --- */
+        html.light-mode .bg-rose-950\/40   { background-color: #ffe4e6 !important; }
+        html.light-mode .bg-orange-950\/40 { background-color: #fff7ed !important; }
+
+        /* --- インパクトカード背景 --- */
+        html.light-mode .bg-rose-900\/30   { background-color: #ffe4e6 !important; }
+        html.light-mode .bg-orange-900\/30 { background-color: #fff7ed !important; }
+        html.light-mode .bg-rose-900\/20   { background-color: #fff1f2 !important; }
+        html.light-mode .bg-orange-900\/20 { background-color: #fffbeb !important; }
+
+        /* --- 「ど真ん中」カード + ページ各所の emerald-950/20 --- */
+        html.light-mode .bg-emerald-950\/20 { background-color: #ecfdf5 !important; }
+
+        /* --- ケとハレ：HP / Instagram 大カード背景 --- */
+        html.light-mode .bg-blue-950\/40  { background-color: #eff6ff !important; }
+        html.light-mode .bg-pink-950\/40  { background-color: #fdf2f8 !important; }
+
+        /* --- A群カード内「ブランドの核」セクション背景 --- */
+        html.light-mode .bg-indigo-900\/20 { background-color: #eef2ff !important; }
+        html.light-mode .bg-violet-900\/20 { background-color: #f5f3ff !important; }
+
+        /* --- B群カード内「特定資産/示唆」セクション背景 --- */
+        html.light-mode .bg-emerald-900\/20 { background-color: #f0fdf4 !important; }
+        html.light-mode .bg-cyan-900\/20    { background-color: #ecfeff !important; }
+        html.light-mode .bg-blue-900\/20    { background-color: #eff6ff !important; }
+        html.light-mode .bg-blue-900\/30    { background-color: #dbeafe !important; }
+
+        /* --- Section4 三層フローカード背景 --- */
+        html.light-mode .bg-fuchsia-900\/20 { background-color: #fdf4ff !important; }
+        html.light-mode .bg-fuchsia-900\/40 { background-color: #fae8ff !important; }
+        html.light-mode .bg-cyan-900\/40    { background-color: #cffafe !important; }
+        html.light-mode .bg-emerald-900\/40 { background-color: #d1fae5 !important; }
+
+        /* --- ボーダー類 (追加) --- */
+        html.light-mode .border-rose-500\/20  { border-color: rgba(244,63,94,0.35) !important; }
+        html.light-mode .border-orange-500\/20 { border-color: rgba(249,115,22,0.35) !important; }
+        html.light-mode .border-indigo-500\/20 { border-color: rgba(99,102,241,0.35) !important; }
+        html.light-mode .border-violet-500\/20 { border-color: rgba(139,92,246,0.35) !important; }
+        html.light-mode .border-emerald-500\/20 { border-color: rgba(16,185,129,0.35) !important; }
+        html.light-mode .border-cyan-500\/20   { border-color: rgba(6,182,212,0.35) !important; }
+        html.light-mode .border-fuchsia-500\/20 { border-color: rgba(217,70,239,0.35) !important; }
+        html.light-mode .border-fuchsia-500\/30 { border-color: rgba(217,70,239,0.45) !important; }
+        html.light-mode .border-cyan-500\/30   { border-color: rgba(6,182,212,0.45) !important; }
+        html.light-mode .border-emerald-500\/30 { border-color: rgba(16,185,129,0.45) !important; }
+        html.light-mode .border-blue-500\/20   { border-color: rgba(59,130,246,0.35) !important; }
+        html.light-mode .border-blue-500\/40   { border-color: rgba(59,130,246,0.55) !important; }
+        html.light-mode .border-pink-500\/40   { border-color: rgba(236,72,153,0.55) !important; }
     </style>
     <script>
         (function() {
@@ -464,7 +555,8 @@
     </section>
 
     <!-- Section 1: Data Truth -->
-    <section id="data-truth" class="py-24 relative overflow-hidden bg-[#020617] pl-4 pr-4">
+    <section id="data-truth" class="py-24 relative overflow-hidden bg-[#020617] pl-4 pr-4 dot-grid">
+        <div class="section-wm top-[-2rem] left-[-3rem] text-blue-400/[0.08]">01</div>
         <div class="container relative z-10 max-w-7xl mx-auto pl-4 pr-4">
             <div class="text-center mb-16 animate-on-scroll">
                 <div class="inline-flex items-center gap-3 mb-4">
@@ -1363,7 +1455,8 @@
     </section>
 
     <!-- Section 2: Analysis & Landscape -->
-    <section id="landscape" class="py-24 relative z-10 bg-[#0F172A] border-t border-slate-800">
+    <section id="landscape" class="py-24 relative z-10 bg-[#0F172A] border-t border-slate-800 dot-grid overflow-hidden">
+        <div class="section-wm top-[-2rem] left-[-3rem] text-cyan-400/[0.04]">02</div>
         <div class="container relative z-10 max-w-7xl mx-auto px-4 sm:px-6">
 
             <div class="text-center mb-16 animate-on-scroll">
@@ -1740,8 +1833,8 @@
                     <span class="w-2 h-8 bg-gradient-to-b from-cyan-400 to-blue-600 rounded-full"></span>
                     「ケとハレ」戦略フレームワーク
                 </h3>
-                <p class="text-slate-400 mb-10 text-base max-w-2xl">
-                    HPとInstagramは「どちらか一方」ではなく、<strong class="text-slate-200">役割が異なる2つの広報メディア</strong>だ。両輪の分担を明確にすることが、鳥羽のデジタル広報戦略の核心になる。
+                <p class="text-slate-400 mb-10 text-base max-w-3xl leading-relaxed">
+                    HPとInstagramは「どちらか一方」ではなく、<strong class="text-slate-200">役割が異なる2つの広報メディア</strong>だ。<br class="hidden md:block">両輪の分担を明確にすることが、鳥羽のデジタル広報戦略の核心になる。
                 </p>
 
                 <!-- 対比テーブル -->
@@ -3523,7 +3616,8 @@
     </section>
 
 
-    <section id="hidden-assets" class="py-24 relative z-10 bg-slate-900 border-t border-slate-800">
+    <section id="hidden-assets" class="py-24 relative z-10 bg-slate-900 border-t border-slate-800 dot-grid overflow-hidden">
+        <div class="section-wm top-[-2rem] right-[-3rem] text-violet-400/[0.08]">03</div>
         <div class="container relative z-10 max-w-7xl mx-auto px-4 sm:px-6">
 
             <div class="text-center mb-16 animate-on-scroll">
@@ -3720,7 +3814,8 @@
         </div>
     </section>
 
-    <section id="recommendations" class="py-24 relative z-10 bg-[#0B1120]">
+    <section id="recommendations" class="py-24 relative z-10 bg-[#0B1120] dot-grid overflow-hidden">
+        <div class="section-wm top-[-2rem] left-[-3rem] text-emerald-400/[0.08]">04</div>
         <!-- Decorative background elements -->
         <div class="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
             <div
