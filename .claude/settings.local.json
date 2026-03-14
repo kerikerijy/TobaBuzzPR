@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git remote:*)",
+      "Bash(source .venv/bin/activate && python research_tools/gen_instagram_docs.py 2>&1)"
+    ]
+  }
+}

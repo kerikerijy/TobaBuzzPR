@@ -59,3 +59,9 @@ PLAN.md のアイデアが実現・確定したら、ここに記録します。
 ### 入学定員・倍率データ
 - **パス**: `kyoto_highschool_admission_ratios.md`
 - **内容**: 京都府内の公立高校全校を網羅した「100% Census（全数調査）」データ。専門学科（前期100%募集枠）と普通科（中期募集枠）を対置させ、一本化に向けた「真の需要」を可視化したマスターレポート。
+
+### 運用・技術報告書（Phase 2）
+- **Meta Business Suite 技術調査報告書**: `docs/reports/instagram_technical_research.md`
+- **Instagram運用ガイドライン（案）**: `docs/reports/instagram_posting_guidelines.md`
+- **HP技術監査・刷新スキーム報告書**: `docs/reports/hp_integration_audit.md`
+
