@@ -1,4 +1,4 @@
-        document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
             // Intersection Observer for fade-in animations
             const observerOptions = {
                 threshold: 0.1
@@ -77,140 +77,8 @@
                 });
             });
         });
-    </script>
 
-    <!-- Map Modal -->
-    <div id="map-modal"
-        class="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/90 backdrop-blur-sm transition-all duration-300 opacity-0 pointer-events-none">
-        <div class="bg-slate-800 border border-slate-700 rounded-2xl w-full max-w-5xl p-6 relative transform scale-95 transition-transform duration-300"
-            id="map-modal-content">
-            <button id="close-map"
-                class="absolute top-4 right-4 text-slate-400 hover:text-white bg-slate-700/50 hover:bg-slate-700 rounded-full w-8 h-8 flex items-center justify-center transition-colors z-[1100]"
-                style="line-height: 0; padding-bottom: 2px;">&times;</button>
-            <h3 id="map-title" class="text-xl md:text-2xl font-bold text-white mb-3 pr-10 flex items-center gap-2">
-                <svg class="w-6 h-6 text-blue-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"></path>
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                        d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"></path>
-                </svg>
-                <span id="map-school-name">学校名</span> 競合商圏マップ (半径5km)
-            </h3>
-
-            <!-- School type filter -->
-            <div class="flex items-center gap-2 mb-3 flex-wrap">
-                <span class="text-xs text-slate-400">表示フィルタ:</span>
-                <button data-type="府立" class="map-filter-btn map-filter-active">府立</button>
-                <button data-type="市立" class="map-filter-btn map-filter-active">市立</button>
-                <button data-type="その他" class="map-filter-btn map-filter-active">その他（国立・私立等）</button>
-            </div>
-
-            <div id="school-map" class="w-full h-[78vh] rounded-xl border border-slate-700 z-10 relative bg-slate-900">
-            </div>
-
-            <div class="mt-4 flex flex-wrap gap-4 text-xs text-slate-300 items-center">
-                <div class="flex items-center gap-1.5">
-                    <div class="w-4 h-4 rounded-full bg-blue-500 border-2 border-white shadow-[0_0_10px_rgba(59,130,246,0.5)]"></div>
-                    <span class="font-bold text-white">選択校</span>
-                </div>
-                <div class="flex items-center gap-1.5">
-                    <div class="w-3.5 h-3.5 rounded-full bg-rose-500 border-2 border-white"></div>
-                    <span class="text-rose-300">5km圏内</span>
-                </div>
-                <div class="flex items-center gap-1.5">
-                    <div class="w-3 h-3 rounded-full bg-orange-500 border-2 border-white"></div>
-                    <span class="text-orange-300">5〜10km</span>
-                </div>
-                <div class="flex items-center gap-1.5">
-                    <div class="w-2.5 h-2.5 rounded-full bg-slate-500 border-2 border-white"></div>
-                    <span class="text-slate-400">10km超</span>
-                </div>
-                <div class="flex items-center gap-1.5 ml-2">
-                    <div class="w-6 border-t-2 border-dashed border-rose-500"></div>
-                    <span class="text-slate-400">5km圏</span>
-                </div>
-                <div class="flex items-center gap-1.5">
-                    <div class="w-6 border-t-2 border-dashed border-orange-500"></div>
-                    <span class="text-slate-400">10km圏</span>
-                </div>
-                <div class="ml-auto text-slate-500">
-                    ※ リアルタイムに距離を判定してプロットしています
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <style>
-        /* Override leaflet styles for dark mode */
-        .leaflet-container {
-            background-color: #0f172a !important;
-            font-family: inherit !important;
-        }
-
-        .leaflet-popup-content-wrapper,
-        .leaflet-popup-tip {
-            background: rgba(30, 41, 59, 0.95);
-            backdrop-filter: blur(8px);
-            color: #f8fafc;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
-        }
-
-        .leaflet-popup-content {
-            margin: 12px 16px;
-            font-weight: 500;
-        }
-
-        .leaflet-container a.leaflet-popup-close-button {
-            color: #94a3b8;
-            padding: 4px;
-        }
-
-        .leaflet-container a.leaflet-popup-close-button:hover {
-            color: #f8fafc;
-        }
-
-        /* Permanent school name labels on map */
-        .map-label {
-            background: rgba(15, 23, 42, 0.85) !important;
-            color: #f1f5f9 !important;
-            border: 1px solid rgba(255, 255, 255, 0.15) !important;
-            border-radius: 4px !important;
-            font-size: 11px !important;
-            font-weight: 600 !important;
-            padding: 2px 6px !important;
-            white-space: nowrap !important;
-            box-shadow: none !important;
-        }
-        .map-label.target-label {
-            color: #93c5fd !important;
-            border-color: rgba(59, 130, 246, 0.4) !important;
-        }
-        .map-label::before { display: none !important; }
-
-        /* Filter buttons */
-        .map-filter-btn {
-            font-size: 11px;
-            padding: 3px 10px;
-            border-radius: 999px;
-            border: 1px solid #475569;
-            background: transparent;
-            color: #94a3b8;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-        .map-filter-btn.map-filter-active {
-            background: #1e40af;
-            border-color: #3b82f6;
-            color: #fff;
-        }
-        .map-filter-btn:hover {
-            border-color: #60a5fa;
-        }
-    </style>
-
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => {
             let mapInstance = null;
             let currentMarkers = [];
             let currentCircles = [];
@@ -663,8 +531,7 @@
             });
         });
 
-    <script>
-        (function() {
+(function() {
             var toggle = document.getElementById('theme-toggle');
             var icon = document.getElementById('theme-icon');
             var label = document.getElementById('theme-label');
@@ -684,9 +551,8 @@
                 updateUI();
             });
         })();
-    </script>
 
-        (function () {
+(function () {
             const EXPECTED_HASH = '154103b7962882f8b48e07bcd71e1c002f021df609735693841aa45ad1c8583f';
             const STORAGE_KEY = 'tobabuzz_auth';
             const overlay = document.getElementById('auth-overlay');
@@ -729,3 +595,4 @@
                 if (e.key === 'Enter') tryAuth();
             });
         })();
+
