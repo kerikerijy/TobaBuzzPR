@@ -5,7 +5,11 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(git remote:*)",
-      "Bash(source .venv/bin/activate && python research_tools/gen_instagram_docs.py 2>&1)"
+      "Bash(source .venv/bin/activate && python research_tools/gen_instagram_docs.py 2>&1)",
+      "Bash(node --check /Users/yamashita.jun.kk/Antigravity/TobaBuzzPR/presentation/main.js 2>&1)",
+      "Bash(git show:*)",
+      "Bash(python3 << 'EOF'\nimport re\n\nwith open\\('/tmp/original_index.html', 'r', encoding='utf-8'\\) as f:\n    content = f.read\\(\\)\n\npattern = re.compile\\(r'<script\\(?!\\\\s+src\\)>\\(.*?\\)</script>', re.DOTALL\\)\nmatches = pattern.findall\\(content\\)\n\n# Block 0: theme-init → stays inline in HTML \\(head\\)\n# Blocks 1,2,3,4: go into main.js\nmain_js_blocks = matches[1:]  # blocks 1-4\n\nwith open\\('/Users/yamashita.jun.kk/Antigravity/TobaBuzzPR/presentation/main.js', 'w', encoding='utf-8'\\) as f:\n    for block in main_js_blocks:\n        f.write\\(block.strip\\(\\)\\)\n        f.write\\('\\\\n\\\\n'\\)\n\nprint\\(f\"main.js written with {len\\(main_js_blocks\\)} blocks\"\\)\nprint\\(f\"Total chars: {sum\\(len\\(b\\) for b in main_js_blocks\\)}\"\\)\nEOF)",
+      "Bash(ls /Users/yamashita.jun.kk/Antigravity/TobaBuzzPR/presentation/images/ig_example*)"
     ]
   }
 }
